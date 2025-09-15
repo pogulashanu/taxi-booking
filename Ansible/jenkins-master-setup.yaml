@@ -1,4 +1,3 @@
----
 - hosts: jenkins-master
   become: true
   tasks:
